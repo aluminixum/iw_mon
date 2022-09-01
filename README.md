@@ -1,4 +1,4 @@
-# iw_mon
+# iw_mon.sh
 
 iw_mon.sh is a shell script to make airmon-ng work with iw command as an alternative when airmon-ng does not work as expected.
 
